@@ -1,5 +1,5 @@
 # syntax=docker/dockerfile:1
-#tyyuu
+
 FROM node:lts-alpine
 WORKDIR /app
 COPY . .
